@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apartment-hunt-client/static/css/main.3cb1f6f7.chunk.css",
+    "main.js": "/apartment-hunt-client/static/js/main.0b3e26b1.chunk.js",
+    "main.js.map": "/apartment-hunt-client/static/js/main.0b3e26b1.chunk.js.map",
+    "runtime-main.js": "/apartment-hunt-client/static/js/runtime-main.57f4344c.js",
+    "runtime-main.js.map": "/apartment-hunt-client/static/js/runtime-main.57f4344c.js.map",
+    "static/js/2.ecb2277e.chunk.js": "/apartment-hunt-client/static/js/2.ecb2277e.chunk.js",
+    "static/js/2.ecb2277e.chunk.js.map": "/apartment-hunt-client/static/js/2.ecb2277e.chunk.js.map",
+    "static/js/3.3bd3bf76.chunk.js": "/apartment-hunt-client/static/js/3.3bd3bf76.chunk.js",
+    "static/js/3.3bd3bf76.chunk.js.map": "/apartment-hunt-client/static/js/3.3bd3bf76.chunk.js.map",
+    "index.html": "/apartment-hunt-client/index.html",
+    "static/css/main.3cb1f6f7.chunk.css.map": "/apartment-hunt-client/static/css/main.3cb1f6f7.chunk.css.map",
+    "static/js/2.ecb2277e.chunk.js.LICENSE.txt": "/apartment-hunt-client/static/js/2.ecb2277e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57f4344c.js",
+    "static/js/2.ecb2277e.chunk.js",
+    "static/css/main.3cb1f6f7.chunk.css",
+    "static/js/main.0b3e26b1.chunk.js"
+  ]
+}
