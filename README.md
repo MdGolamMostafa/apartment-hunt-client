@@ -5,16 +5,16 @@
 #### Technology Used -
 
 
-1.React JS ,
-2.MongoDB , 
-3.Node JS , 
-4.Rest API , 
-5.React Router ,
-6.Heroku , 
-7.Firebase, 
-8.React Bootstrap , 
-9.HTML , 
-10.SASS.
+1. React JS ,
+2. MongoDB , 
+3. Node JS , 
+4. Rest API , 
+5. React Router ,
+6. Heroku , 
+7. Firebase, 
+8. React Bootstrap , 
+9. HTML , 
+10. SASS.
 
 
 #### Features Section-
