@@ -23,7 +23,7 @@ const Login = () => {
 
   let { from } = location.state || { from: { pathname: "/" } };
   const [loading, setLoading] = useState(false)
-  const [newUser, setNewUser] = useState(true)
+  const [newUser, setNewUser] = useState(true)//here
   const [userInfo, setUserInfo] = useState({ ...initUser });
 
   const onChangeHandler = e => {
